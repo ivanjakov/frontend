@@ -1,13 +1,21 @@
-blagoje
+blagoje iz ivanjicu brale
 
+sta mi branis da radim ludaku
 
+kako samo ja jebote pushujem
 
 
 
 
 dragana
 
-
+<DOCTYPE! html>
+<head>
+<title></title>
+</head>
+<body>
+</body>
+</html>
 
 
 
