@@ -20,13 +20,8 @@ dragana
 
 
 paki paki paki paki paki paki paki 1234
-<<<<<<< HEAD
 ksdjbvn
 
-=======
-
-za push
->>>>>>> e8139a231815dcddc61dcbebb8219b3be6f9df91
 
 
 
