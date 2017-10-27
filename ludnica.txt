@@ -9,7 +9,8 @@ kako samo ja jebote pushujem
 
 dragana
 
-
+<DOCTYPE! html>
+</html>
 
 
 
@@ -21,3 +22,5 @@ paki
 
 
 budala
+
+promenu sam napravio
